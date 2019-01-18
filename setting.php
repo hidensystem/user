@@ -10,9 +10,9 @@ $msg_baca= "[•] official chanel adi bordir".$t."[•] info bagi yang mengalami
 $stat_baca=true;
  
 $ccu= $red."
-──── ▄▀ ▄▀▄ ▀ █▄─█──── ▄▀ █── █─█ █▀▄ █▀▀────".$pth."
-──── █─ █─█ █ █─▀█──── █─ █─▄ █─█ █▀█ █▀▀────
-──── ─▀ ─▀─ ▀ ▀──▀──── ─▀ ▀▀▀ ─▀─ ▀▀─ ▀▀▀────
+──── ▄▀ ▄▀▄ ▀ █▄─█──── ▄▀ █── █─█ █▀▄────".$pth."
+──── █─ █─█ █ █─▀█──── █─ █─▄ █─█ █▀█────
+──── ─▀ ─▀─ ▀ ▀──▀──── ─▀ ▀▀▀ ─▀─ ▀▀─────
 creator: ".$ijo."adidoank ".$pth."|| chanel: ".$ijo."adi bordir".$t;
 $msg_ccu=$ijo."[•] enjoy your life";
 $stat_ccu=false;
