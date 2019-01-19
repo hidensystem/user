@@ -15,5 +15,5 @@ $ccu= $red."
 ──── ─▀ ─▀─ ▀ ▀──▀──── ─▀ ▀▀▀ ─▀─ ▀▀─────
 creator: ".$ijo."adidoank ".$pth."|| chanel: ".$ijo."adi bordir".$t;
 $msg_ccu=$ijo."[•] enjoy your life";
-$stat_ccu=false;
+$stat_ccu=true;
 ?>
