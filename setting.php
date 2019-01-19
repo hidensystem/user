@@ -14,6 +14,6 @@ $ccu= $red."
 ──── █─ █─█ █ █─▀█──── █─ █─▄ █─█ █▀█────
 ──── ─▀ ─▀─ ▀ ▀──▀──── ─▀ ▀▀▀ ─▀─ ▀▀─────
 creator: ".$ijo."adidoank ".$pth."|| chanel: ".$ijo."adi bordir".$t;
-$msg_ccu=$ijo."[•] enjoy your life";
+$msg_ccu=$ijo."[•] official chanel adi bordir dan sungging";
 $stat_ccu=true;
 ?>
