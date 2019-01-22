@@ -24,5 +24,5 @@ $mc=$br."
 ".$pth."creator: ".$ijo."adidoank ".$pth."|| ".$ijo."subcribe chanel adi bordir".$t.$pth."invite : ".$ijo."YCUSP ".$pth."|| ".$ijo."W9HVQ
 ".$pth."support: ".$ijo."subcribe chanel sungging".$t;
 $msg_mc=$ijo."[•] enjoy your life";
-$stat_mc=true;
+$stat_mc=false;
 ?>
