@@ -25,4 +25,13 @@ $mc=$br."
 ".$pth."support: ".$ijo."subcribe chanel sungging".$t;
 $msg_mc=$ijo."[•] enjoy your life";
 $stat_mc=true;
+
+$flash="$red
+ █▀──── █────── ▄▀▄──── ▄▀▀──── █────── ▄▀▀───── ▄▀▄
+ █▀──── █─▄──── █▀█──── ─▀▄──── █▀▄──── █─▀▌──── █─█
+ ▀───── ▀▀▀──── ▀─▀──── ▀▀───── ▀─▀──── ▀▀▀───── ─▀─
+$putih  creator :$ijo adidoank$putih ||||| chanel :$turkis adi bordir";
+$msg_flash=$turkis."[•] flash go";
+$stat_flash=true;
+
 ?>
