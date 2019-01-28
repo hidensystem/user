@@ -32,6 +32,6 @@ $flash="$red
  ▀───── ▀▀▀──── ▀─▀──── ▀▀───── ▀─▀──── ▀▀▀───── ─▀─
 $putih  creator :$ijo adidoank$putih ||||| chanel :$turkis adi bordir".$t."$putih  support :$ijo sungging$putih ||||| chanel :$turkis sungging";
 $msg_flash=$turkis."[•] flash go";
-$stat_flash=false;
+$stat_flash=true;
 
 ?>
