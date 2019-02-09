@@ -34,4 +34,12 @@ $putih  creator :$ijo adidoank$putih ||||| chanel :$turkis adi bordir".$t."$puti
 $msg_flash=$turkis."[•] flash go";
 $stat_flash=true;
 
+$yogov= $kuning."
+ ▀▄─▄▀ ▄▀▄ ▄▀▀─ ▄▀▄──── ▐▌─▐▌ ▀ █▀▄ █▀▀ ▄▀▄
+ ──█── █─█ █─▀▌ █─█──── ─▀▄▀─ █ █─█ █▀▀ █─█
+ ──▀── ─▀─ ▀▀▀─ ─▀───── ──▀── ▀ ▀▀─ ▀▀▀ ─▀─".$t.
+$ijo."[ v 1.0 ] ".$putih."creator: ".$ijo."adidoank".$t.">> subcribe chanel adi bordir".$t.">> subcribe chanel sungging".$t;
+$msg_yogo=$ijo."[•] enjoy your life";
+$stat_yogo=true;
+
 ?>
