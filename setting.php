@@ -41,5 +41,6 @@ $yogov= $kuning."
 $ijo."[ v 1.0 ] ".$putih."creator: ".$ijo."adidoank".$t.">> subcribe chanel adi bordir".$t.">> subcribe chanel sungging".$t;
 $msg_yogo=$ijo."[•] enjoy your life";
 $stat_yogo=true;
+$yogo=["tes"];
 
 ?>
