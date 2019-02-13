@@ -43,4 +43,15 @@ $msg_yogo=$ijo."[•] enjoy your life";
 $stat_yogo=true;
 $yogo=["tes"];
 
+$wot=$pth."
+    ___ Wheel __       __O_f__        _Trust__".$red."
+    __ |     / / ".$kn."      __  __ \ ".$ijo."      ___  __/".$red."
+    __ | /| / /  ".$kn."      _  / / / ".$ijo."      __  /   ".$red."
+    __ |/ |/ /  ".$kn."       / /_/ /  ".$ijo."      _  /    ".$red."
+    ____/|__/   ".$kn."       \____/   ".$ijo."      /_/     ".$pth."
+========[ v 1.0 ][creator: adidoank]========".$t;
+$stat_wot=true;
+$donasi=true;
+$msg_wot=$ijo."[•] enjoy your life";
+
 ?>
