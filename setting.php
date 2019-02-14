@@ -50,8 +50,10 @@ $wot=$pth."
     __ |/ |/ /  ".$kn."       / /_/ /  ".$ijo."      _  /    ".$red."
     ____/|__/   ".$kn."       \____/   ".$ijo."      /_/     ".$pth."
 ========[ v 1.0 ][creator: adidoank]========".$t;
-$stat_wot=false;
+$stat_wot=true;
 $donasi=false;
 $msg_wot=$ijo."[•] enjoy your life";
+$ads=$ijo.">> subcribe chanel adi bordir ".$t.
+$kn.">> subcribe chanel sungging ".$t;
 
 ?>
