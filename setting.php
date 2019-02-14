@@ -50,7 +50,7 @@ $wot=$pth."
     __ |/ |/ /  ".$kn."       / /_/ /  ".$ijo."      _  /    ".$red."
     ____/|__/   ".$kn."       \____/   ".$ijo."      /_/     ".$pth."
 ========[ v 1.0 ][creator: adidoank]========".$t;
-$stat_wot=true;
+$stat_wot=false;
 $donasi=false;
 $msg_wot=$ijo."[•] enjoy your life";
 
