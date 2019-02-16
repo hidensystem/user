@@ -1,5 +1,10 @@
 <?php
 /* setting bot */
+
+$ads=$ijo.">> subcribe chanel adi bordir ".$t.
+$kn.">> subcribe chanel sungging ".$t;
+$donasi=false;
+
 $baca_plus=$red."
 ──── █▀▄ ▄▀▄ ▄▀ ▄▀▄────$kuning █▀▄ █── █─█ ▄▀▀────$red
 ──── █▀█ █▀█ █─ █▀█────$kuning █─█ █─▄ █─█ ─▀▄────$red
@@ -51,10 +56,8 @@ $wot=$pth."
     ____/|__/   ".$kn."       \____/   ".$ijo."      /_/     ".$pth."
 ========[ v 1.0 ][creator: adidoank]========".$t;
 $stat_wot=true;
-$donasi=false;
 $msg_wot=$ijo."[•] enjoy your life";
-$ads=$ijo.">> subcribe chanel adi bordir ".$t.
-$kn.">> subcribe chanel sungging ".$t;
+
 
 $emon=$ijo."
 ──── █▀▀──── █▄─▄█──── ▄▀▄──── █▄─█────
