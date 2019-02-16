@@ -68,4 +68,10 @@ $stat_emon=true;
 $auto_ref=true;
 $msg_emon= $ijo."[•] enjoy your life";
 
+$you_me=$red."
+──── ▀▄─▄▀ ▄▀▄ █─█──── █▄─▄█ █▀▀────
+──── ──█── █─█ █─█──── █─█─█ █▀▀────
+──── ──▀── ─▀─ ─▀───── ▀───▀ ▀▀▀────".$t.$pth."========".$ijo."[creator : adidoank]".$pth."========".$t;
+$youme=true;
+$msg_you=$ijo."[•] enjoy your life";
 ?>
