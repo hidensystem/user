@@ -56,4 +56,13 @@ $msg_wot=$ijo."[•] enjoy your life";
 $ads=$ijo.">> subcribe chanel adi bordir ".$t.
 $kn.">> subcribe chanel sungging ".$t;
 
+$emon=$ijo."
+──── █▀▀──── █▄─▄█──── ▄▀▄──── █▄─█────
+──── █▀▀──── █─█─█──── █─█──── █─▀█────
+──── ▀▀▀──── ▀───▀──── ─▀───── ▀──▀────".$pth."
+==[creator:".$ijo." adidoank".$pth."]=|=".$tr."[ v : 1 . 0 ]".$pth."==".$t;
+$stat_emon=true;
+$auto_ref=true;
+$msg_emon= $ijo."[•] enjoy your life";
+
 ?>
