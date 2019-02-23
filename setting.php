@@ -92,4 +92,12 @@ $msg_ltc="[•] enjoy your life";
 $do_ltc=false;
 $stat_ltc=true;
 
+$eth_far=$tr."
+──── █▀▀ ▀█▀ █────── █▀ ▄▀▄ █▀▀▄ █▄─▄█ █▀▀ █▀▀▄────
+──── █▀▀ ─█─ █▀▄──── █▀ █▀█ █▐█▀ █─█─█ █▀▀ █▐█▀────
+──── ▀▀▀ ─▀─ ▀─▀──── ▀─ ▀─▀ ▀─▀▀ ▀───▀ ▀▀▀ ▀─▀▀────
+======[".$ijo." version 1.0".$tr." ]===[ creator:".$ijo." adidoank".$tr." ]======".$t;
+$msg_eth_far=$ijo."[•] enjoy your life";
+$stat_eth_far=true;
+
 ?>
