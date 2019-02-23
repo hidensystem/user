@@ -74,4 +74,16 @@ $you_me=$red."
 ──── ──▀── ─▀─ ─▀───── ▀───▀ ▀▀▀────".$t.$pth."========".$ijo."[creator : adidoank]".$pth."========".$t;
 $youme=true;
 $msg_you=$ijo."[•] enjoy your life";
+
+$ltc=$red."
+_______________________________________
+    _| [".$ijo."ROOT".$red."]  _|  ".$ijo." |||||||||||||||||||".$red."                   
+    _|       _|_|_|_|       _|_|_|      
+    _|         _|         _|            
+    _|  __     _|         _|         
+_____|____|__".$ijo."I".$red."__|_|___".$ijo."E".$red."____|_|_|_|_".$ijo."OIN_".$pth."
+[ v.1.0 ]========[ creator : adidoank ] ".$t;
+$msg_ltc="[•] enjoy your life";
+$do_ltc=false;
+
 ?>
