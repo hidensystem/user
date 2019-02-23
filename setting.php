@@ -5,6 +5,11 @@ $ads=$ijo.">> subcribe chanel adi bordir ".$t.
 $kn.">> subcribe chanel sungging ".$t;
 $donasi=false;
 
+$warn=$red."[!] warning !!!
+".$kn."[-] ini adalah program ilegal
+".$kn."[-] resiko sepenuhnya di tanggung pengguna".$t;
+
+
 $baca_plus=$red."
 ──── █▀▄ ▄▀▄ ▄▀ ▄▀▄────$kuning █▀▄ █── █─█ ▄▀▀────$red
 ──── █▀█ █▀█ █─ █▀█────$kuning █─█ █─▄ █─█ ─▀▄────$red
