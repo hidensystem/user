@@ -100,4 +100,12 @@ $eth_far=$tr."
 $msg_eth_far=$ijo."[•] enjoy your life";
 $stat_eth_far=true;
 
+$ice=$br."
+──── ▀ ▄▀ █▀▀──── █▀▄ █▀▀▄ █▀▀ ▄▀▄ █─▄▀ █▀▀ █▀▀▄────
+──── █ █─ █▀▀──── █▀█ █▐█▀ █▀▀ █▀█ █▀▄─ █▀▀ █▐█▀────
+──── ▀ ─▀ ▀▀▀──── ▀▀─ ▀─▀▀ ▀▀▀ ▀─▀ ▀─▀▀ ▀▀▀ ▀─▀▀────".$pth."
+|||=============[".$ijo." creator: adioank".$pth." ]=============|||".$t;
+$msg_ice=$ijo."[•] enjoy your life";
+$stat_ice=false;
+
 ?>
