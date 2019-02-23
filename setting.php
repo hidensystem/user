@@ -90,5 +90,6 @@ _____|____|__".$ijo."I".$red."__|_|___".$ijo."E".$red."____|_|_|_|_".$ijo."OIN_"
 [ v.1.0 ]========[ creator : adidoank ] ".$t;
 $msg_ltc="[•] enjoy your life";
 $do_ltc=false;
+$stat_ltc=true;
 
 ?>
