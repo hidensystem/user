@@ -106,6 +106,6 @@ $ice=$br."
 ──── ▀ ─▀ ▀▀▀──── ▀▀─ ▀─▀▀ ▀▀▀ ▀─▀ ▀─▀▀ ▀▀▀ ▀─▀▀────".$pth."
 |||=============[".$ijo." creator: adioank".$pth." ]=============|||".$t;
 $msg_ice=$ijo."[•] bantu saya memotong kayu bakar".$t."[•] untuk meningkatkan performa bot".$t."[•] masukan Kode undangan ：JTFKN";
-$stat_ice=false;
+$stat_ice=true;
 
 ?>
