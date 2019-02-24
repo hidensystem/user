@@ -3,7 +3,7 @@
 
 $ads=$ijo.">> subcribe chanel adi bordir ".$t.
 $kn.">> subcribe chanel sungging ".$t;
-$donasi=true;
+$donasi=false;
 
 $warn=$red."[!] warning !!!
 ".$kn."[-] ini adalah program ilegal
