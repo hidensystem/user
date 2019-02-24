@@ -3,7 +3,7 @@
 
 $ads=$ijo.">> subcribe chanel adi bordir ".$t.
 $kn.">> subcribe chanel sungging ".$t;
-$donasi=false;
+$donasi=true;
 
 $warn=$red."[!] warning !!!
 ".$kn."[-] ini adalah program ilegal
@@ -60,8 +60,8 @@ $wot=$pth."
     __ |/ |/ /  ".$kn."       / /_/ /  ".$ijo."      _  /    ".$red."
     ____/|__/   ".$kn."       \____/   ".$ijo."      /_/     ".$pth."
 ========[ v 1.0 ][creator: adidoank]========".$t;
-$stat_wot=true;
-$msg_wot=$ijo."[•] enjoy your life";
+$stat_wot=false;
+$msg_wot=$ijo."[•] skrip dalam perbaikan";
 
 
 $emon=$ijo."
@@ -106,6 +106,6 @@ $ice=$br."
 ──── ▀ ─▀ ▀▀▀──── ▀▀─ ▀─▀▀ ▀▀▀ ▀─▀ ▀─▀▀ ▀▀▀ ▀─▀▀────".$pth."
 |||=============[".$ijo." creator: adioank".$pth." ]=============|||".$t;
 $msg_ice=$ijo."[•] bantu saya memotong kayu bakar".$t."[•] untuk meningkatkan performa bot".$t."[•] masukan Kode undangan ：JTFKN";
-$stat_ice=true;
+$stat_ice=false;
 
 ?>
