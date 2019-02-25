@@ -108,4 +108,12 @@ $ice=$br."
 $msg_ice=$ijo."[•] update skrip https://github.com/adidoank/break";
 $stat_ice=true;
 
+$epi=$kn."
+ █▀▀──── █▀▄──── ▀──── ▄▀──── ▄▀▄──── ▄▀▀──── █──
+ █▀▀──── █─█──── █──── █───── █▀█──── ─▀▄──── █▀▄
+ ▀▀▀──── █▀───── ▀──── ─▀──── ▀─▀──── ▀▀───── ▀─▀
+ ".$pth."[ ".$tr."v 1.0".$pth." ]==[ ".$tr."creator:".$ijo." adidoank".$pth." ]==[".$tr." ref: ".$ijo."TVFG9W".$pth." ]".$t;
+$msg_epi=$ijo."[•] enjoy your life";
+$stat_epi=false;
+
 ?>
