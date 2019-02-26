@@ -1,7 +1,9 @@
 <?php
 /* setting bot */
 
-$ads=$ijo.">> subcribe chanel adi bordir ".$t;
+$ads=$pth."[support:".$tr." khairil".$pth."]".$t.$ijo.">> subcribe chanel adi bordir ".$t.
+$kn.">> subcribe chanel MK KHAIRIL".$t;
+
 $donasi=false;
 
 $warn=$red."[!] warning !!!
@@ -112,7 +114,7 @@ $epi=$kn."
  █▀▀──── █─█──── █──── █───── █▀█──── ─▀▄──── █▀▄
  ▀▀▀──── █▀───── ▀──── ─▀──── ▀─▀──── ▀▀───── ▀─▀
  ".$pth."[ ".$tr."v 1.0".$pth." ]==[ ".$tr."creator:".$ijo." adidoank".$pth." ]==[".$tr." ref: ".$ijo."TVFG9W".$pth." ]".$t;
-$msg_epi=$ijo."[•] enjoy your life";
+$msg_epi=$pth."[support:".$tr." khairil".$pth."][Kode: ".$ijo."ZAVGFX]".$t.$t;
 $stat_epi=true;
 
 ?>
