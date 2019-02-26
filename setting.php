@@ -1,8 +1,7 @@
 <?php
 /* setting bot */
 
-$ads=$ijo.">> subcribe chanel adi bordir ".$t.
-$kn.">> subcribe chanel sungging ".$t;
+$ads=$ijo.">> subcribe chanel adi bordir ".$t;
 $donasi=false;
 
 $warn=$red."[!] warning !!!
