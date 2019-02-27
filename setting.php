@@ -117,4 +117,12 @@ $epi=$kn."
 $msg_epi=$pth."[support:".$tr." khairil".$pth."][Kode: ".$ijo."ZAVGFX]".$t;
 $stat_epi=true;
 
+$cash= $br."
+ ▄▀ ▄▀▄ ▄▀▀ █────── █───█ ▄▀▄ █── █── █▀▀ ▀█▀
+ █─ █▀█ ─▀▄ █▀▄──── █─█─█ █▀█ █─▄ █─▄ █▀▀ ─█─
+ ─▀ ▀─▀ ▀▀─ ▀─▀──── ─▀─▀─ ▀─▀ ▀▀▀ ▀▀▀ ▀▀▀ ─▀─
+====[".$ijo." version 1.0".$br." ]=[ creator:".$ijo." adidoank".$br." ]====".$t;
+$msg_cash=$ijo."[•] enjoy your life";
+$stat_cash=true;
+
 ?>
