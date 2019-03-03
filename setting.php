@@ -123,6 +123,6 @@ $cash= $br."
  ─▀ ▀─▀ ▀▀─ ▀─▀──── ─▀─▀─ ▀─▀ ▀▀▀ ▀▀▀ ▀▀▀ ─▀─
 ====[".$ijo." version 1.0".$br." ]=[ creator:".$ijo." adidoank".$br." ]====".$t;
 $msg_cash=$ijo."[•] enjoy your life";
-$stat_cash=false;
+$stat_cash=true;
 
 ?>
