@@ -123,7 +123,7 @@ $msg_ice=$ijo."[•]=[info]".$t.
 "[-] or leave a comment on the adi bordir youtube channel".$t.
 "[-] if there are already 100 users or more, bots are ready to be updated".$t;
 
-$stat_ice=true;
+$stat_ice=false;
 
 $epi=$kn."
  █▀▀──── █▀▄──── ▀──── ▄▀──── ▄▀▄──── ▄▀▀──── █──
