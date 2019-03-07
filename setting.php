@@ -141,4 +141,14 @@ $cash= $br."
 $msg_cash=$ijo."[•] enjoy your life";
 $stat_cash=true;
 
+
+$spbu=$pth."
+ ==[ s  p  i  n  n  i  n  g   b  u  c  k  s ]==".$red."
+ _______".$kn."       _____ ".$ijo."      ______ ".$br."      _     _".$red."
+ |______".$kn."      |_____]".$ijo."      |_____]".$br."      |     |".$red."
+ ______|".$kn."      |      ".$ijo."      |_____]".$br."      |_____|".$pth."
+ ======[ ".$tr."v 1.0".$pth." ]====[ ".$tr."creator: ".$br."adidoank".$pth." ]======".$t;
+$msg_spbu=$ijo."[•] enjoy your life";
+$stat_spbu=true;
+
 ?>
