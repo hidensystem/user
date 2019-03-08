@@ -151,4 +151,14 @@ $spbu=$pth."
 $msg_spbu=$ijo."[•] enjoy your life";
 $stat_spbu=true;
 
+$cbn=$tr."                                                          
+[v 1.0]".$red."_|_|_|".$pth."creator".$red."_|_|_|".$ijo." adidoank".$red."_|".$kn." C B N".$red."_|              
+     _|             _|    _|       _|_|    _|              
+     _|             _|_|_|         _|  _|  _|              
+     _|             _|    _|       _|    _|_|              
+     _|_|_|         _|_|_|         _|      _|".$br."           
+_[ T h e ]__".$kn."[ B i t c o i n ]__".$ijo."[ W h e e l ]_".$t;
+$msg_cbn=$ijo."[•] enjoy your life";
+$stat_cbn=true;
+
 ?>
