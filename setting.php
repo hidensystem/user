@@ -107,21 +107,7 @@ $ice=$br."
 ──── ▀ ─▀ ▀▀▀──── ▀▀─ ▀─▀▀ ▀▀▀ ▀─▀ ▀─▀▀ ▀▀▀ ▀─▀▀────".$pth."
 |||=============[".$ijo." creator: adioank".$pth." ]=============|||".$t;
 $msg_ice=$ijo."[•]=[info]".$t.
-"[-] hallo gusy masih menunggu update icebreaker ?".$t.
-"[-] bantu saya mempercepat uji coba".$t.
-"[-] dengan mengirim kode invite kamu".$t.
-"[-] ke alamat email: adidoank69ads@yahoo.com".$t.
-"[-] atau tinggalkan komentar di chanel ytb adi bordir".$t.
-"[-] jika sudah ada 100 user lebih bot siap di update".$t.
-"
-
-[•]=[info]".$t.
-"[-] Hello, are you still waiting for the icebreaker update?".$t.
-"[-] help me speed up the trial".$t.
-"[-] by sending your invite code".$t.
-"[-] to the email address: adidoank69ads@yahoo.com".$t.
-"[-] or leave a comment on the adi bordir youtube channel".$t.
-"[-] if there are already 100 users or more, bots are ready to be updated".$t;
+"[-] ready to update".$t;
 
 $stat_ice=false;
 
