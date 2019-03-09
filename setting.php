@@ -109,7 +109,7 @@ $ice=$br."
 $msg_ice=$ijo."[•]=[info]".$t.
 "[-] ready to update".$t;
 
-$stat_ice=false;
+$stat_ice=true;
 
 $epi=$kn."
  █▀▀──── █▀▄──── ▀──── ▄▀──── ▄▀▄──── ▄▀▀──── █──
