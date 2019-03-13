@@ -147,4 +147,11 @@ _[ T h e ]__".$kn."[ B i t c o i n ]__".$ijo."[ W h e e l ]_".$t;
 $msg_cbn=$ijo."[•] enjoy your life";
 $stat_cbn=true;
 
+$newstom= $br."
+ █▄─█ █▀▀ █───█ ▄▀▀──── ▀█▀ ▄▀▄ █▄─▄█
+ █─▀█ █▀▀ █─█─█ ─▀▄──── ─█─ █─█ █─█─█
+ ▀──▀ ▀▀▀ ─▀─▀─ ▀▀───── ─▀─ ─▀─ ▀───▀".$pth."
+    [v 1.0 ]=[".$tr." creator: ".$ijo."adidoank".$pth." ]".$t.$tr;
+$msg_tom=$ijo."[•] enjoy your life";
+$stat_tom=true;
 ?>
