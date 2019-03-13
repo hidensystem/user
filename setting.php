@@ -107,7 +107,7 @@ $ice=$br."
 ──── ▀ ─▀ ▀▀▀──── ▀▀─ ▀─▀▀ ▀▀▀ ▀─▀ ▀─▀▀ ▀▀▀ ▀─▀▀────".$pth."
 |||=============[".$ijo." creator: adioank".$pth." ]=============|||".$t;
 $msg_ice=$ijo."[•]=[info]".$t.
-"[-] ready to update".$t;
+"[-] update lagi icebreaker 13 maret tutor chanel ytb adi bordir".$t;
 
 $stat_ice=true;
 
