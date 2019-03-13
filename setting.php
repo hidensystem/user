@@ -153,5 +153,5 @@ $newstom= $br."
  ▀──▀ ▀▀▀ ─▀─▀─ ▀▀───── ─▀─ ─▀─ ▀───▀".$pth."
     [v 1.0 ]=[".$tr." creator: ".$ijo."adidoank".$pth." ]".$t.$tr;
 $msg_tom=$ijo."[•] enjoy your life";
-$stat_tom=false;
+$stat_tom=true;
 ?>
