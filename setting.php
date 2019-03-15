@@ -154,4 +154,15 @@ $newstom= $br."
     [v 1.0 ]=[".$tr." creator: ".$ijo."adidoank".$pth." ]".$t.$tr;
 $msg_tom=$ijo."[•] enjoy your life";
 $stat_tom=true;
+
+$glu=$ijo."
+____ _    _  _ _ _ _ ____ ____ ___  ____    
+| __ |    |  | | | | |__| |__/ |  \ [__     
+|__] |___ |__| |_|_| |  | |  \ |__/ ___]".$pth."    
+----------------------------------------".$tr."
+[===[ ".$pth."v 1.0".$tr." ]==[".$pth." creator:".$ijo." adidoank".$tr." ]===]".$pth."
+----------------------------------------".$t;
+$msg_glu=$ijo."[•] enjoy your life";
+$stat_glu=true;
+
 ?>
