@@ -1,8 +1,8 @@
 <?php
 /* setting bot */
 
-$ads=$pth."[support:".$tr." khairil".$pth."]".$t.$ijo.">> subcribe chanel adi bordir ".$t.
-$kn.">> subcribe chanel MK KHAIRIL".$t;
+$ads=$pth."[support]=[".$tr." khairil ".$pth."]=[ ".$ijo."HĂN C_GAMER ]".$t.$red."\t>> subcribe chanel << ".$t.
+$ijo."adi bordir | ".$kn."MK KHAIRIL | ".$tr."HĂN C_GAMER ".$t;
 
 $donasi=false;
 
