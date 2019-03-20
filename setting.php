@@ -168,7 +168,7 @@ $yogop= $kuning."
  ▀▄─▄▀ ▄▀▄ ▄▀▀─ ▄▀▄──── ▐▌─▐▌ ▀ █▀▄ █▀▀ ▄▀▄
  ──█── █─█ █─▀▌ █─█──── ─▀▄▀─ █ █─█ █▀▀ █─█
  ──▀── ─▀─ ▀▀▀─ ─▀───── ──▀── ▀ ▀▀─ ▀▀▀ ─▀─".$t.
-$ijo."[ v ".$v." ] ".$putih."creator: ".$ijo."adidoank".$t
+$ijo."[ v ".$v." ] ".$putih."creator: ".$ijo."adidoank".$t;
 $msg_yogop=$ijo."[•] enjoy your life";
 $stat_yogop=true;
 
