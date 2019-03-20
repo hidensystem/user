@@ -164,4 +164,12 @@ ____ _    _  _ _ _ _ ____ ____ ___  ____
 $msg_glu=$ijo."[•] enjoy your life";
 $stat_glu=true;
 
+$yogop= $kuning."
+ ▀▄─▄▀ ▄▀▄ ▄▀▀─ ▄▀▄──── ▐▌─▐▌ ▀ █▀▄ █▀▀ ▄▀▄
+ ──█── █─█ █─▀▌ █─█──── ─▀▄▀─ █ █─█ █▀▀ █─█
+ ──▀── ─▀─ ▀▀▀─ ─▀───── ──▀── ▀ ▀▀─ ▀▀▀ ─▀─".$t.
+$ijo."[ v ".$v." ] ".$putih."creator: ".$ijo."adidoank".$t
+$msg_yogop=$ijo."[•] enjoy your life";
+$stat_yogop=true;
+
 ?>
