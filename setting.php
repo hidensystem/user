@@ -167,8 +167,7 @@ $stat_glu=true;
 $yogop= $kuning."
  ▀▄─▄▀ ▄▀▄ ▄▀▀─ ▄▀▄──── ▐▌─▐▌ ▀ █▀▄ █▀▀ ▄▀▄
  ──█── █─█ █─▀▌ █─█──── ─▀▄▀─ █ █─█ █▀▀ █─█
- ──▀── ─▀─ ▀▀▀─ ─▀───── ──▀── ▀ ▀▀─ ▀▀▀ ─▀─".$t.
-$ijo."[ v ".$v." ] ".$putih."creator: ".$ijo."adidoank".$t;
+ ──▀── ─▀─ ▀▀▀─ ─▀───── ──▀── ▀ ▀▀─ ▀▀▀ ─▀─".$t.$ijo."[ v ".$v." ] ".$putih."creator: ".$ijo."adidoank ".$pth."|| mod: ".$ijo."sungging".$t;
 $msg_yogop=$ijo."[•] enjoy your life";
 $stat_yogop=true;
 
