@@ -168,7 +168,7 @@ $yogop= $kuning."
  ▀▄─▄▀ ▄▀▄ ▄▀▀─ ▄▀▄──── ▐▌─▐▌ ▀ █▀▄ █▀▀ ▄▀▄
  ──█── █─█ █─▀▌ █─█──── ─▀▄▀─ █ █─█ █▀▀ █─█
  ──▀── ─▀─ ▀▀▀─ ─▀───── ──▀── ▀ ▀▀─ ▀▀▀ ─▀─".$t.$ijo."[ v ".$v." ] ".$putih."creator: ".$ijo."adidoank ".$pth."|| mod: ".$ijo."sungging".$t;
-$msg_yogop=$ijo."[•] enjoy your life";
+$msg_yogop=$ijo."[•] info : skrip ini di kelola oleh sungging";
 $stat_yogop=true;
 
 ?>
