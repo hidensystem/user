@@ -171,4 +171,12 @@ $yogop= $kuning."
 $msg_yogop=$ijo."[•] info : skrip ini di kelola oleh sungging";
 $stat_yogop=true;
 
+$ecash=$kn."
+──── █▀▀──── ▄▀──── ▄▀▄──── ▄▀▀──── █──────
+──── █▀▀──── █───── █▀█──── ─▀▄──── █▀▄────
+──── ▀▀▀──── ─▀──── ▀─▀──── ▀▀───── ▀─▀────".$pth."
+[ creator [".$ijo."adidoank".$pth."]=[ chanel [adi bordir]".$pth.$t;
+$msg_ecash=$ijo."[•] enjoy your life";
+$stat_ecash=true;
+
 ?>
