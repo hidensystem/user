@@ -1,7 +1,7 @@
 <?php
 /* setting bot */
 
-$ads=$ijo."    [ official chanel adi bordir ]".$t.$red."\t >> subcribe chanel << ".$t.$pth."[ ".$ijo."AW 2000".$pth." ]=[".$kn." MK KHAIRIL ".$pth."]=[ ".$tr."HĂN C_GAMER ]".$t;
+$ads=$ijo."    [ official chanel adi bordir ]".$t.$red."\t >> subcribe chanel << ".$t.$pth."[ ".$ijo."AW 2000".$pth." ]=[".$kn." adi bordir ".$pth."]=[ ".$tr."HĂN C_GAMER ]".$t;
 
 $donasi=false;
 
