@@ -9,6 +9,8 @@ $warn=$red."[!] warning !!!
 ".$kn."[-] ini adalah program ilegal
 ".$kn."[-] resiko sepenuhnya di tanggung pengguna".$t;
 
+$key="adidoank";
+$link_yogo="https://youtu.be/hLkAqZM3QHc";
 
 $baca_plus=$red."
 ──── █▀▄ ▄▀▄ ▄▀ ▄▀▄────$kuning █▀▄ █── █─█ ▄▀▀────$red
