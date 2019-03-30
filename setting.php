@@ -181,4 +181,12 @@ $ecash=$kn."
 $msg_ecash=$ijo."[•] enjoy your life";
 $stat_ecash=true;
 
+$panda=$ijo."
+──── ▄▀ ▄▀▄ ▄▀▀ █──────".$kn." █▀▄ ▄▀▄ █▄─█ █▀▄ ▄▀▄────".$ijo."
+──── █─ █▀█ ─▀▄ █▀▄────".$kn." █─█ █▀█ █─▀█ █─█ █▀█────".$ijo."
+──── ─▀ ▀─▀ ▀▀─ ▀─▀────".$kn." █▀─ ▀─▀ ▀──▀ ▀▀─ ▀─▀────".$pth."
+=[ creator: ".$tr."adidoank".$pth." ]=[ team: ".$br."Black".$red."Coder".$ijo."Crush".$pth."]=".$t;
+$msg_panda="[•]=[ enjoy your life ]";
+$stat_panda=true;
+
 ?>
