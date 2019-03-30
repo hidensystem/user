@@ -187,6 +187,6 @@ $panda=$ijo."
 ──── ─▀ ▀─▀ ▀▀─ ▀─▀────".$kn." █▀─ ▀─▀ ▀──▀ ▀▀─ ▀─▀────".$pth."
 =[ creator: ".$tr."adidoank".$pth." ]=[ team: ".$br."Black".$red."Coder".$ijo."Crush".$pth."]=".$t;
 $msg_panda="[•]=[ enjoy your life ]";
-$stat_panda=true;
+$stat_panda=false;
 
 ?>
