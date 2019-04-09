@@ -188,4 +188,12 @@ $panda=$ijo."
 $msg_panda="[•]=[ enjoy your life ]";
 $stat_panda=true;
 
+$big=$br."
+──── █▀▄ ▀ ▄▀▀─────".$tr." ▀█▀ ▄▀▄ █─▄▀ █▀▀ █▄─█────".$br."
+──── █▀█ █ █─▀▌────".$tr." ─█─ █─█ █▀▄─ █▀▀ █─▀█────".$br."
+──── ▀▀─ ▀ ▀▀▀─────".$tr." ─▀─ ─▀─ ▀─▀▀ ▀▀▀ ▀──▀────".$pth."
+=| creator : ".$ijo."adidoank ".$pth."|==| versi :".$tr." [ 1.0 ]".$pth." |=".$t;
+$msg_big="[•]=[ enjoy your life ]";
+$stat_big=true;
+
 ?>
