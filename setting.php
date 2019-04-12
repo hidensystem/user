@@ -1,6 +1,6 @@
 <?php
 /* setting bot */
-$ads=$ijo."    [ official chanel adi bordir ]".$t.$red."\t >> subcribe chanel << ".$t.$pth."[ ".$ijo."AW 2000".$pth." ]=[".$kn." Adi Bordir ".$pth."]=[ ".$tr."HĂN C_GAMER ]".$t.$kn."\tjasa ref ".$br."BIG TOKEN".$t.$pth." kontak".$ijo." Ajit Vepal : ".$kn."085892453400".$t;
+$ads=$ijo."    [ official chanel adi bordir ]".$t.$red."\t >> subcribe chanel << ".$t.$pth."[ ".$ijo."AW 2000".$pth." ]=[".$kn." Adi Bordir ".$pth."]=[ ".$tr."HĂN C_GAMER ]".$t;
 
 $donasi=false;
 
