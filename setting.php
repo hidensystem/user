@@ -205,4 +205,14 @@ $buzz=$ijo."
 $msg_buzz="[•]=[ enjoy your life ]";
 $stat_buzz=true;
 
+$yodo=$kn."
+──── ▀▄─▄▀──── ▄▀▄──── █▀▄──── ▄▀▄────
+──── ──█────── █─█──── █─█──── █─█────
+──── ──▀────── ─▀───── ▀▀───── ─▀─────".$pth."
+[ crator :".$ijo." adidoank".$pth." ]=[ versi :".$ijo." $info ]".$t;
+$msg_yodo=$ijo."[ enjoy your life ]";
+$stat_yodo=true;
+
+
+
 ?>
