@@ -213,6 +213,15 @@ $yodo=$kn."
 $msg_yodo=$ijo."[ enjoy your life ]";
 $stat_yodo=true;
 
-
+$qriket=$ijo."
+_______ ________ ______________ ____________________
+__  __ \___  __ \____  _/___  //_/___  ____/___  __/
+_  / / /__  /_/ / __  /  __  ,<   __  __/   __  /   $kn
+/ /_/ / _  _, _/ __/ /   _  /| |  _  /___   _  /    
+\___\_\ /_/ |_|  /___/   /_/ |_|  /_____/   /_/     $pth
+                                                    
+[ versi:$ijo $vr $pth] [ creator :$ijo a d i d o a n k ] ".$t;
+$msg_qr=$ijo."[ enjoy your life ]";
+$stat_qr=true;
 
 ?>
