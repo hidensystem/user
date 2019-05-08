@@ -210,7 +210,7 @@ $yodo=$kn."
 ──── ──█────── █─█──── █─█──── █─█────
 ──── ──▀────── ─▀───── ▀▀───── ─▀─────".$pth."
 [ crator :".$ijo." adidoank".$pth." ]=[ versi :".$ijo." $info ]".$t;
-$msg_yodo=$ijo."[ enjoy your life ]";
+$msg_yodo=$ijo."[ update skrip v 1.1 add otp all country ]";
 $stat_yodo=true;
 
 $qriket=$ijo."
